@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts
+creation_time: 1717931581973
+experiment_id: '224473707817973236'
+last_update_time: 1717931581973
+lifecycle_stage: active
+name: model_registry

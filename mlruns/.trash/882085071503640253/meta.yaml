@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/Abbasi/mlops/mlflow_test/testing_mlflow1_artifacts
+creation_time: 1714461493707
+experiment_id: '882085071503640253'
+last_update_time: 1714461991539
+lifecycle_stage: deleted
+name: testing_mlflow1
+tags:
+  env: dev
+  version: 1.0.0

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Abbasi/mlops/mlflow_test/testing_mlflow1_artifacts/aabd5da35c3a426b8753cf0108510ebd/artifacts
+deleted_time: 1714465998075
+end_time: 1714465039270
+entry_point_name: ''
+experiment_id: '625698446635825945'
+lifecycle_stage: deleted
+run_id: aabd5da35c3a426b8753cf0108510ebd
+run_name: logging_images
+run_uuid: aabd5da35c3a426b8753cf0108510ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714465038396
+status: 3
+tags: []
+user_id: Abbasi

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718018962343
+current_stage: None
+description: null
+last_updated_timestamp: 1718018962343
+name: RandomForestRegressor
+run_id: b90c360754d84662a7d35f88cc90903d
+run_link: null
+source: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/b90c360754d84662a7d35f88cc90903d/artifacts/rfr_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/b90c360754d84662a7d35f88cc90903d/artifacts/rfr_model
+user_id: null
+version: 4

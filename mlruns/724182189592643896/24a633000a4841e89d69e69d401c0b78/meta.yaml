@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abbasi/mlops/mlflow_test/testing_mlflow1_artifacts/24a633000a4841e89d69e69d401c0b78/artifacts
+end_time: 1718449523483
+entry_point_name: ''
+experiment_id: '724182189592643896'
+lifecycle_stage: active
+run_id: 24a633000a4841e89d69e69d401c0b78
+run_name: logging_images
+run_uuid: 24a633000a4841e89d69e69d401c0b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718449522937
+status: 4
+tags: []
+user_id: Abbasi

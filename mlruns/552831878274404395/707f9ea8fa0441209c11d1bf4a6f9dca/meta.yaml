@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abbasi/mlops/mlflow_test/serving_multiple_models/707f9ea8fa0441209c11d1bf4a6f9dca/artifacts
+end_time: 1717920793359
+entry_point_name: ''
+experiment_id: '552831878274404395'
+lifecycle_stage: active
+run_id: 707f9ea8fa0441209c11d1bf4a6f9dca
+run_name: multiple_models
+run_uuid: 707f9ea8fa0441209c11d1bf4a6f9dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717920791846
+status: 3
+tags: []
+user_id: Abbasi
