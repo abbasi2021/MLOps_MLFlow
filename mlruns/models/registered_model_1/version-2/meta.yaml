@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718021856266
+current_stage: None
+description: null
+last_updated_timestamp: 1718021856266
+name: registered_model_1
+run_id: b90c360754d84662a7d35f88cc90903d
+run_link: null
+source: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/b90c360754d84662a7d35f88cc90903d/artifacts/rft_model2
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/b90c360754d84662a7d35f88cc90903d/artifacts/rft_model2
+user_id: null
+version: 2

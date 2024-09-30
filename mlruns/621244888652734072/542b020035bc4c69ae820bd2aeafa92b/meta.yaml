@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abbasi/mlops/mlflow_test/model_signature_artifacts/542b020035bc4c69ae820bd2aeafa92b/artifacts
+end_time: 1714998415646
+entry_point_name: ''
+experiment_id: '621244888652734072'
+lifecycle_stage: active
+run_id: 542b020035bc4c69ae820bd2aeafa92b
+run_name: model_signature_run
+run_uuid: 542b020035bc4c69ae820bd2aeafa92b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714998413786
+status: 3
+tags: []
+user_id: Abbasi

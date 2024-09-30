@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718015135588
+current_stage: None
+description: null
+last_updated_timestamp: 1718015135588
+name: CustomModel
+run_id: 762055b469e34dbfa7ba41a00b3b44f4
+run_link: null
+source: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/762055b469e34dbfa7ba41a00b3b44f4/artifacts/custom_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Abbasi/mlops/mlflow_test/model_registry_artifacts/762055b469e34dbfa7ba41a00b3b44f4/artifacts/custom_model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abbasi/mlops/mlflow_test/nested_run_artifacts/7fd18553d1634cee9b3d11b8ec584054/artifacts
+end_time: 1714895265303
+entry_point_name: ''
+experiment_id: '522215230715528883'
+lifecycle_stage: active
+run_id: 7fd18553d1634cee9b3d11b8ec584054
+run_name: child2
+run_uuid: 7fd18553d1634cee9b3d11b8ec584054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714895265288
+status: 3
+tags: []
+user_id: Abbasi
